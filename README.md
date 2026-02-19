@@ -10,7 +10,7 @@ The system supports 256×256 pixel image transmission at a 5 MHz baud rate and d
 
 ## Top-Level Architecture
 
-![Top Level Architecture](Docs/Top_level_uArch.png)
+![Top Level Architecture](Doc/Top_level_uArch.png)
 
 > Replace the image path above with your actual diagram location.
 
